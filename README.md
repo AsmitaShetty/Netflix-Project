@@ -1,6 +1,6 @@
 # Netflix-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/fe0d47cf-3e0e-4d8e-a8a2-e18824138816/ReportSection
+### Dashboard Link : [Netflix Dashboard](https://app.powerbi.com/groups/me/reports/fe0d47cf-3e0e-4d8e-a8a2-e18824138816/ReportSection).
 
 ## Problem Statement
 
